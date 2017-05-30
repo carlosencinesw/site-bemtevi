@@ -1,4 +1,4 @@
-# ARTISAN BOILER PLATE
+# SKELETON
 ----------------------
 
 
@@ -23,11 +23,7 @@
 -------------
 
 	- npm init
-	- npm i --save-dev gulp
-	- npm i --save-dev gulp-sass
-	- npm i --save-dev gulp-uglify
-	- npm i --save-dev gulp-plumber
-	- npm i --save-dev live-server
+	- npm i --save-dev
 
 
 ## EXECUTANDO COMANDOS
