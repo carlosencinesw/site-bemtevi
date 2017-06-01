@@ -7,12 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Artisan Soluções Web",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.0.1",
     "live-server": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosencinesw/skeleton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosencinesw/skeleton/issues"
+  },
+  "homepage": "https://github.com/carlosencinesw/skeleton#readme"
 }
